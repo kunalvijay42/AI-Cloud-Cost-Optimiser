@@ -1,0 +1,4 @@
+ProductName,UsageQuantity,BlendedCost,ResourceId,Region,Date
+EC2 Compute,100,125.50,i-abc123,us-east-1,2026-01-01
+S3 Storage,500,45.00,bucket-alpha,us-east-1,2026-01-01
+RDS Instance,50,89.20,db-xyz789,us-west-2,2026-01-01

@@ -1,0 +1,4 @@
+Service,Sku,Cost,UsageQuantity,ResourceId,Region,Date
+Compute Engine,VM Instance,150.00,80,vm-gcp-1,us-central1,2026-01-01
+Cloud Storage,Standard Storage,35.50,900,storage-gcp-1,europe-west1,2026-01-01
+BigQuery,Analysis,92.75,200,bq-001,us-central1,2026-01-01

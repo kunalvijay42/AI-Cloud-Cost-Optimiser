@@ -1,0 +1,4 @@
+MeterName,ResourceId,PreTaxCost,UsageQuantity,Region,Date
+Virtual Machines,vm-001,180.25,200,centralus,2026-01-01
+Storage Account,stg-001,40.50,1000,eastus,2026-01-01
+SQL Database,sql-001,95.00,75,westus2,2026-01-01
