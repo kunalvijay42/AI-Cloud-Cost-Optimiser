@@ -25,7 +25,7 @@ def detect_provider(headers: list[str]) -> str:
 
 
 def parse_and_normalize_bill(file_contents: bytes, filename: str) -> dict[str, Any]:
-    """Read a billing CSV and normalize it into a common schema."""
+    """Read a billing CSV and normalize it into a common."""
     if not file_contents:
         raise ValueError("Uploaded file is empty.")
 
