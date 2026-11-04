@@ -18,7 +18,7 @@ app = FastAPI(title="AI Cloud Cost Optimiser API", version="0.1.0")
 @app.get("/health")
 async def health_check() -> dict[str, str]:
     """Simple health check endpoint."""
-    return {"status": "ok"}
+    return {"status": "Working Well"}
 
 
 @app.post("/analyze", response_model=AnalysisResponse)
